@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --my-shadow: #E5E7EB;
+  --my-sky: #3B82F6;
+  --my-grass: #10B981;
+  --my-bone:#F9FAFB;
+  --my-dead:#1F2937;
+}
