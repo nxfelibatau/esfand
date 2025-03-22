@@ -34,6 +34,9 @@ src/ ├── components/ # Reusable UI components ├── pages/ # Page comp
 Clone the project:
 
 git clone https://github.com/nxfelibatau/esfand.git
+
 cd esfand
+
 npm install
+
 npm run dev
