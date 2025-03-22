@@ -1,61 +1,16 @@
-import Header from "./components/Header";
-import AnimationMine from "./components/Animation";
-
+import AuroraBackground from "./components/AuroraBackground";
+import BackgroundLines from "./components/BackgroundLines";
+import CollisionBackground from "./components/CollisionBackground";
+import Compare from "./components/Compare";
+import Lamp from "./components/LampSectionHeader";
 export default function Home() {
   return (
     <>
-      <Header />
-      <AnimationMine />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
+    <AuroraBackground/>
+    <CollisionBackground/>
+    <BackgroundLines/>
+    <Compare/>
+    <Lamp/>
     </>
   );
 }

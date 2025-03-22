@@ -2,18 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --my-shadow: #E5E7EB;
-  --my-sky: #3B82F6;
-  --my-grass: #10B981;
-  --my-bone:#F9FAFB;
-  --my-main:#F3E5A5;
-  --my-mainS:#E89B9B;
-  --my-dead:#1F2937;
-  --my-dead:#1F2937;
-  --my-dead:#1F2937;
-  --my-dead:#1F2937;
-  --my-dead:#1F2937;
-  --my-dead:#1F2937;
-  --my-dead:#1F2937;
+body {
+  font-family: var(--font-vazir);
 }
